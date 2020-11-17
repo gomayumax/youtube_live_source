@@ -1,0 +1,18 @@
+li.voice-state:not([data-reactid*="user_id"]) { display:none; }
+.avatar {
+  content:url(https://raw.githubusercontent.com/gomayumax/youtube_live_source/main/among_us/lime.png);
+  height:200px !important;
+  width:200px !important;
+  border-radius:0% !important;
+  filter: brightness(50%);
+}
+
+.speaking {
+  border-color:rgba(0,0,0,0) !important;
+  filter: brightness(100%);
+}
+
+li.voice-state{ position: static; }
+div.user{ position: absolute; left:100px; top:110px; }
+
+body { background-color: rgba(0, 0, 0, 0); margin: 0px auto; overflow: hidden; }
