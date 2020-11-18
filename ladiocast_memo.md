@@ -4,6 +4,8 @@
 
 何をどこに流すかということさえわかれば良い
 
+<img src="ladiocast_setting_memo.png" width="400px" />
+
 ## input
 input1~4 がある
 
