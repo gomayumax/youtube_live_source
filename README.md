@@ -8,8 +8,11 @@
 
 ## 出力先を全部soundflowr(2ch)に集約する
 ### システム設定
-<img src="./ladiocast_setting.png" width="300px">
+
+<img src="./system_sound_setting.png" width="300px">
+
 「soundflowr(2ch)」に設定
+
 ### discord
 「default」でいい
 ### ipad
